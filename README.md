@@ -60,7 +60,7 @@ Kasey McCall,Kasey,McCall,kmccall1,kmccall@halcorp.biz
 Akira Shavers,Akira,Shavers,ashavers,ashavers@halcorp.biz
 Trevor Mundy,Trevor,Mundy,tmundy01,tmundy@halcorp.biz
 Gary Fischer,Gary,Fischer,gfischer,gfischer@halcorp.biz
-Gary Fischer,Gary,Fischer,gfisch0,gfisch1@halcorp.biz
+Gary Fischer,Gary,Fischer,gfisch01,gfisch1@halcorp.biz
 Vijay Patel Sr,Vijay,Patel Sr,vpatelsr,vpatelsr@halcorp.biz
 Juan Vasquez,Juan,Vasquez,jvasquez,jvasquez@halcorp.biz
 Anton Zgambo,Anton,Zgambo,azgambo1,azgambo@halcorp.biz
