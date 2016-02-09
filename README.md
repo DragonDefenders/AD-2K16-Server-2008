@@ -6,7 +6,7 @@ Marie LeFleur,Marie,LeFleur,mlefleur,mlefleur@halcorp.biz
 Jamie Roma,Jamie,Roma,jroma123,jroma@halcorp.biz
 Richard Xavier,Richard,Xavier,rxavier1,rxavier@halcorp.biz
 Rachel Xieng,Rachel,Xieng,rxieng01,rxieng@halcorp.biz
-Paul Alexander,Paul,Alexander,ralexand,palexander@halcorp.biz
+Paul Alexander,Paul,Alexander,palexand,palexander@halcorp.biz
 Melinda Hixon,Melinda,Hixon,mhixon01,mhixon@halcorp.biz 
 Thomas Harden,Thomas,Harden,tharden1,tharden@halcorp.biz
 Cecilia Thompson,Cecilia,Thompson,cthompson, cthompson@halcorp.biz
@@ -29,9 +29,9 @@ John Neidler,John,Neidler,jneidler,jneidler@halcorp.biz
 Karen Morrow,Karen,Morrow,kmorrow1,kmorrow@halcorp.biz
 Leonard Leibowitz,Leonard,Leibowitz,lleibowi,lleibowitz@halcorp.biz
 Carlos Mendez,Carlos,Mendez,cmendez1,cmendez@halcorp.biz
-Teresa Steward,Teresa,Steward,tsteward1,tsteward@halcorp.biz
+Teresa Steward,Teresa,Steward,tsteward,tsteward@halcorp.biz
 Juanita LaSalle,Juanita,LaSalle,jlasalle,jlasalle@halcorp.biz
-Kekunda Grey,Kekunda,Grey,kgrey0123,kgrey@halcorp.biz
+Kekunda Grey,Kekunda,Grey,kgrey012,kgrey@halcorp.biz
 William Freund,William,Freund,wfreund1,wfreund@halcorp.biz
 Julio Rodriguez,Julio,Rodriguez,jrodrigu,jrodriguez@halcorp.biz
 Wanita Jeromel,Wanita,Jeromel,wjeromel,wjeromel@halcorp.biz
