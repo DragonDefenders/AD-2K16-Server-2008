@@ -26,7 +26,7 @@ Vijay Patel Jr,Vijay,Patel Jr,vpateljr,vpateljr@halcorp.bizd
 Pamela Allen,Pamela,Allen,pallen01,pallen@halcorp.biz
 Mark Sinclair,Mark,Sinclair,msinclai,msinclair@halcorp.biz
 John Neidler,John,Neidler,jneidler,jneidler@halcorp.biz
-Karen Morrow,Karen,Marrow,kmarrow1,kmorrow@halcorp.biz
+Karen Morrow,Karen,Morrow,kmorrow1,kmorrow@halcorp.biz
 Leonard Leibowitz,Leonard,Leibowitz,lleibowi,lleibowitz@halcorp.biz
 Carlos Mendez,Carlos,Mendez,cmendez1,cmendez@halcorp.biz
 Teresa Steward,Teresa,Steward,tsteward1,tsteward@halcorp.biz
