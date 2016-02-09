@@ -2,7 +2,7 @@
 Import-Csv .\[File Name] |New-ADUser –AccountPassword(ConvertTo-SecureString –AsPlainText “[PASSWORD]” –Force) –CannotChangePassword $True
 Name,GivenName,Surname,SamAccountName,UserPrincipalName
 Alan Hake,Alan,Hake,ahake001,ahake@halcorp.biz
-Marie LeFleur,Marie,LeFleur,mlefluer,mlefleur@halcorp.biz
+Marie LeFleur,Marie,LeFleur,mlefleur,mlefleur@halcorp.biz
 Jamie Roma,Jamie,Roma,jroma123,jroma@halcorp.biz
 Richard Xavier,Richard,Xavier,rxavier1,rxavier@halcorp.biz
 Rachel Xieng,Rachel,Xieng,rxieng01,rxieng@halcorp.biz
