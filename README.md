@@ -39,7 +39,7 @@ Thomas Wilson,Thomas,Wilson,twilson1,twilson@halcorp.biz
 Susan Carter,Susan,Carter,scarter01,scarter@halcorp.biz
 Edward Michaels,Edward,Michaels,emichaels,emichaels@halcorp.biz
 Jonathon Jasper,Jonathon,Jasper,jjasper1,jjasper@halcorp.biz
-Sy Truman,Sy Truman,struman1,struman@halcorp.biz
+Sy Truman,Sy,Truman,struman1,struman@halcorp.biz
 Tina Mann,Tina,Mann,tmann012,tmann@halcorp.biz
 Okekula Mbuta,Okekula,Mbuta,ombuta012,ombute@halcorp.biz
 Debbie Sims,Debbie,Sims,dsims0123,dsims@halcorp.biz
