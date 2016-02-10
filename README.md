@@ -1,5 +1,5 @@
 # AD-2K16-Server-2008
-Import-Csv .\[File Name] |New-ADUser –AccountPassword(ConvertTo-SecureString –AsPlainText “[PASSWORD]” –Force) –CannotChangePassword $True
+Import-Csv .\ [File Name] |New-ADUser –AccountPassword(ConvertTo-SecureString –AsPlainText “[PASSWORD]” –Force) –CannotChangePassword $True
 Name,GivenName,Surname,SamAccountName,UserPrincipalName
 Alan Hake,Alan,Hake,ahake001,ahake@halcorp.biz
 Marie LeFleur,Marie,LeFleur,mlefleur,mlefleur@halcorp.biz
