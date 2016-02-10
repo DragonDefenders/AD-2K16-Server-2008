@@ -73,7 +73,7 @@ Mannie Zurita,Mannie,Zurita,mzurita1,mzurita@halcorp.biz
 Samuel Prout,Samuel,Prout,sprout012,sprout@halcorp.biz
 Donna Massey,Donna,Massey,dmassey1,dmassey@halcorp.biz
 Su Lee,Su,Lee,slee0123,slee@halcorp.biz
-Jeffrey Kruse,Jeffrey,Kruse,jkruse0123,jkruse@halcorp.biz
+Jeffrey Kruse,Jeffrey,Kruse,jkruse01,jkruse@halcorp.biz
 Jesse Eckerd,Jesse,Eckerd,jeckerd1,jeckerd@halcorp.biz
 Angela Fowler,Angela,Fowler,afowler1,afowler@halcorp.biz
 Ken Miller,Ken,Miller,kmiller1,kmiller@halcorp.biz
